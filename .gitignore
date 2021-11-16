@@ -1,0 +1,7 @@
+/venv/
+.idea/
+config.py
+*.jpg
+*.mp4
+*.tgs
+*.pyc
